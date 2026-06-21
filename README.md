@@ -6,7 +6,7 @@
 
 A gasless US dollar account on Sui that sends by name, settles in under a second, and keeps the amount private. Live on mainnet.
 
-[Web app](https://app.talise.io) · [iOS (TestFlight)](https://testflight.apple.com/join/BFNEPYtM) · [Pitch deck (PDF)](./pitch/Talise-Pitch-Deck.pdf) · [X](https://x.com/taliseio)
+[Website](https://talise.io) · [iOS (TestFlight)](https://testflight.apple.com/join/BFNEPYtM) · [Pitch deck (PDF)](./pitch/Talise-Pitch-Deck.pdf) · [X](https://x.com/taliseio)
 
 </div>
 
@@ -14,7 +14,7 @@ A gasless US dollar account on Sui that sends by name, settles in under a second
 
 ## Links for judges
 
-- **Web app:** https://app.talise.io
+- **Website:** https://talise.io
 - **iOS app (TestFlight):** https://testflight.apple.com/join/BFNEPYtM
 - **Primary working repository (full build history):** https://github.com/SeventhOdyssey71/talise-main
 
@@ -51,7 +51,7 @@ Public chains leak every balance and every payment. Talise private send uses a G
 - Private sends with the amount hidden on chain.
 - Claim links (money in a link) and streaming (money over time).
 - On and off ramps to a bank through licensed partners.
-- Public beta at `app.talise.io`, with an iOS build in TestFlight.
+- Public beta on iOS via TestFlight. The website is at talise.io.
 
 ## Traction
 
