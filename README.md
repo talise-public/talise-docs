@@ -6,9 +6,19 @@
 
 A gasless US dollar account on Sui that sends by name, settles in under a second, and keeps the amount private. Live on mainnet.
 
-[Live app](https://app.talise.io) · [Pitch deck (PDF)](./pitch/Talise-Pitch-Deck.pdf) · [X](https://x.com/taliseio)
+[Web app](https://app.talise.io) · [iOS (TestFlight)](https://testflight.apple.com/join/BFNEPYtM) · [Pitch deck (PDF)](./pitch/Talise-Pitch-Deck.pdf) · [X](https://x.com/taliseio)
 
 </div>
+
+---
+
+## Links for judges
+
+- **Web app:** https://app.talise.io
+- **iOS app (TestFlight):** https://testflight.apple.com/join/BFNEPYtM
+- **Primary working repository (full build history):** https://github.com/SeventhOdyssey71/talise-main
+
+> These repositories (`talise-frontend`, `talise-mobile`, `talise-contracts`, `talise-infra`, and this `talise-docs`) are the clean, organized submission. The original day to day development happened in the primary working repository above, which we migrated into focused repositories for clarity.
 
 ---
 
